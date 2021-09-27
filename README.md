@@ -1,1 +1,1 @@
-# Thrope-Nuker-v2
+This bot was made by Thrope (aka Shimoto aka White Code). Yes you are allowed to use this code for whatever you want. But do not overuse it or you will kill your bot. Use this code with the full knowledge that you can be banned off of discord for violating Discord ToS. This code will only work with Python and nothing else. All Credit goes to Me. So nuke all the discord servers you want :) WARNING: You absolutely MUST download the .zip file for this code. This will ONLY work on PC (maybe linux)
