@@ -1,0 +1,1 @@
+First of all, go to https://discord.com/developers/applications. Go to your bot and copy the token. Then put your token in the ("Insert Token") of the main.py file. then change the discord server name, spam channels and spam message to whatever you want. I recommend to start with @everyone.
